@@ -14,4 +14,20 @@
    13  vi linuxcmd.txt
    14  ls -a
    15  history
+--------------------------------------------------------
+
+
+
+    7  mkdir -p /opt/gitdemo
+    8  cd gitdemo/
+   12  git init
+   13  vi linuxcmd.txt
+   14  ls -a
+   16  vi linuxcmd.txt
+   17  ls
+   18  git status
+   19  git add linuxcmd.txt
+   20  git status
+   21  git commit -m"my first commit"
+   22  history
 
